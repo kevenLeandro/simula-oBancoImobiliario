@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "nome": "Morumbi",
+    "valor": 50,
+    "aluguel" : 20
+  },
+  {
+     "id": 2,
+    "nome": "Barra da Tijuca",
+    "valor": 50,
+    "aluguel" : 20
+  },
+  {
+    "id": 3,
+   "nome": "Banco central",
+    "valor": 100,
+    "aluguel" : 75
+  },
+   {
+     "id": 4,
+     "nome": "AV. São João",
+     "valor": 50,
+     "aluguel" : 20
+  },
+   {
+     "id": 5,
+   "nome": "Jardins",
+    "valor": 100,
+    "aluguel" : 50
+  },
+   {
+      "id": 6,
+   "nome": "Praça da Sé",
+    "valor": 50,
+    "aluguel" : 20
+  },
+   {
+      "id": 7,
+   "nome": "AV Ibirapuera",
+    "valor": 70,
+    "aluguel" : 35
+  },
+   {
+      "id": 8,
+   "nome": "Rua Oscar Freire",
+    "valor": 70,
+    "aluguel" : 35
+  },
+   {
+      "id": 9,
+   "nome": "AV Beira Mar",
+    "valor": 30,
+    "aluguel" : 10
+  },
+ {
+   "id": 10,
+   "nome": "Rua da Consolação",
+    "valor": 30,
+    "aluguel" : 10
+  },
+ {
+   "id": 11,
+   "nome": "Central de Força de Luz",
+    "valor": 100,
+    "aluguel" : 75
+  },
+ {
+   "id": 12,
+   "nome": "AV do contorno",
+    "valor": 75,
+    "aluguel" : 50
+  },
+  {
+    "id": 13,
+   "nome": "Praça dos tres poderes",
+    "valor": 75,
+    "aluguel" : 50
+  },
+  {
+    "id": 14,
+   "nome": "jd botanico",
+    "valor": 50,
+    "aluguel" : 20
+  },
+  {
+    "id": 15,
+   "nome": "Avenida Paulista",
+    "valor": 70,
+    "aluguel" : 35
+  },
+  {
+    "id": 16,
+   "nome": "AV. Ipiranga",
+    "valor": 50,
+    "aluguel" : 30
+  },
+  {
+    "id": 17,
+   "nome": "Aricanduva",
+    "valor": 30,
+    "aluguel" : 10
+  },
+  {
+    "id": 18,
+   "nome": "Companha de Mineração",
+    "valor": 100,
+    "aluguel" : 70
+  },
+  {
+    "id": 19,
+   "nome": "Higienopolis",
+    "valor": 150,
+    "aluguel" : 75
+  },
+  {
+    "id": 20,
+   "nome": "AV. Recife",
+    "valor": 70,
+    "aluguel" : 30
+  }
+
+]
